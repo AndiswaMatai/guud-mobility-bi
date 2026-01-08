@@ -1,0 +1,5 @@
+metric_id,metric_name,department,value,date,status
+KPI001,ActiveUsers,Operations,12000,2021-05-01,VALID
+KPI002,TripsCompleted,Operations,8500,2021-05-01,VALID
+KPI003,Revenue,Finance,450000,2021-05-01,VALID
+KPI004,ChurnRate,CustomerSuccess,0.08,2021-05-01,VALID
