@@ -1,0 +1,4 @@
+report_id,report_name,owner,last_updated,status
+REP001,MonthlyPerformance,CEO,2021-05-02,PUBLISHED
+REP002,KPIOverview,CFO,2021-05-02,PUBLISHED
+REP003,CustomerChurn,COO,2021-05-02,DRAFT
